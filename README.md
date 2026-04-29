@@ -11,7 +11,7 @@ java -jar target/library.jar
 
 # Тесты
 mvn test
-```mvn
+```
 
 ### Описание
 
